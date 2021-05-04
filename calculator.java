@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//This is a test program for calculato
+//This is a test program for calculator
 public class calculator
   {
     public static void main(String args[])
