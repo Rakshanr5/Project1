@@ -1,13 +1,13 @@
 import java.util.Scanner;
-
- public class calculator
+//This is a test program for calculato
+public class calculator
   {
     public static void main(String args[])
      {
        float a, b, res;
        char choice, ch;
        Scanner scan = new Scanner(System.in);
-	      
+	     
       	do
          {
            System.out.print("1. Addition\n");
@@ -55,4 +55,4 @@ import java.util.Scanner;
 																	            System.out.print("\n---------------------------------------\n");
 	}while(choice != 5);       
     }
-}
+
